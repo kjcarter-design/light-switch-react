@@ -8,3 +8,21 @@
 button {
   padding: 12px 24px;
 }
+
+.trueFlashLight {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #ECEFF1;
+  height: 100vh;
+  width: 100vw;
+}
+.falseFlashLight {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #222222;
+  height: 100vh;
+  width: 100vw;
+}
+

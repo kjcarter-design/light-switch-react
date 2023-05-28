@@ -1,0 +1,11 @@
+.flashLight {
+  border: 1px solid #ECEFF1;
+  background-color: #ECEFF1;
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+}
+
+* {
+  cursor: none !important;
+}
